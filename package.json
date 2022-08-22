@@ -4,7 +4,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build --outDir public",
+    "build": "tsc && vite build --outDir dist",
     "serve": "vite preview"
   },
   "prettier": "@consenlabs-fe/prettier",
