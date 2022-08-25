@@ -63,8 +63,6 @@ app.innerHTML = `
     <pre class="zi-dark" id="balance">Balance: Unconnected1</pre>
     <button class="zi-btn primary small auto" id="getBalance" onclick="alert('Unconnected')">Get Balance</button>
     <br>
-    <br>
-    <br>
     <button class="zi-btn primary small auto" id="connect" onclick="alert('Unconnected')">Connect to Wallet</button>
   </section>
 `
